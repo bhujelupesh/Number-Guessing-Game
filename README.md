@@ -24,7 +24,7 @@ The project consists of a single file, `number_guessing_game.py`, which contains
 This project is opensourced project.
 
 ## Author
-[Upesh Bhujel]
+Upesh Bhujel
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request. You can also open an issue if you have any suggestions or bug reports.
